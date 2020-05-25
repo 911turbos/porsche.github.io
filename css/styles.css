@@ -69,3 +69,7 @@ a:hover{
 hr{
 	color:white;
 }
+#car{
+	padding: 5px;
+	border-image: 2px;
+}
